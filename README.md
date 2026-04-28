@@ -1,4 +1,3 @@
-# goodcabs-medallion-dlt
 # GoodCabs Medallion Pipeline
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -52,6 +51,3 @@ It follows the industry-standard **Medallion Architecture** to ensure:
 - **Medallion Architecture**
 - **SCD Type 1** (Slowly Changing Dimension)
 
----
-
-### 📁 Project Structure
